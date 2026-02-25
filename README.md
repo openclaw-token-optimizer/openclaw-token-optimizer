@@ -12,7 +12,7 @@ This tool solves the main problem of active agent usage — the exponential grow
 
 ---
 
-## ⚙️ Optimization Architecture: Under the Hood
+## ⚙️ Optimization Architecture
 
 Standard out-of-the-box OpenClaw sends a monolithic context to the LLM. We solve this problem at the payload generation level for the API.
 
